@@ -12,5 +12,5 @@ Integradora-asesoria/<br>
 | Responsable | Puesto | Contacto | Observaciones |
 |-------------|--------|----------|---------------|
 |Ángel de Jesús Rufino Mendoza|Lider de Desarrollo BackEnd| [@RufinoAngel](https://github.com/RufinoAngel) |✅ Revisado y aprobado.|
-|Ana Daniela Lopez Neri |[@DanielaLopez66](https://github.com/DanielaLopez66)|❌Sin revisión.|
+|Ana Daniela Lopez Neri |Desarrollador de Backend | [@DanielaLopez66](https://github.com/DanielaLopez66)|❌Sin revisión.|
 |Gpe. Idai Vargas Galindo |Desarrollador BackEnd| [@IdaiVG](https://github.com/IdaiVG)|❌Sin revisión.|
